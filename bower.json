@@ -1,0 +1,24 @@
+{
+  "name": "cucojs",
+  "main": "cuco.js",
+  "authors": [
+    "alberto e thomas"
+  ],
+  "description": "the best chronometer in the web",
+  "keywords": [
+    "chrono"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "qunit": "^2.0.1",
+    "jquery": "^3.1.1"
+  }
+}
